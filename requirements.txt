@@ -10,3 +10,4 @@ tqdm==4.49.0
 wcwidth==0.2.8
 Werkzeug==2.2.3
 opencv-python
+flask-cors
